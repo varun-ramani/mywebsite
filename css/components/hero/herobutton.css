@@ -1,0 +1,8 @@
+#hero a {
+    font-size: 2rem;
+    color: white;
+}
+
+#hero a:hover {
+    color: black;
+}
